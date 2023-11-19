@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @farawayCC. Alexey Klygin from Darmstadt, Germany
-- 👀 I’m interested in gamedev and productivity techniques
+- 👀 I’m interested in game dev and productivity techniques
 - 👨‍💻 Working as a Fullstack dev in Maxedv, Hamburg
-- 🌱 I’m currently learning ThreeJS, Golang
+- 🌱 I’m currently learning ThreeJS and Digital Marketing. Broadening knowledge at Fullstack TS apps
 - 📫 You can reach me on Discord: -aso#1808, Telegram: @FaraSomet
 
 <!---
