@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @farawayCC. Alexey Klygin from Darmstadt, Germany
-- 👨‍💻 Working as a Fullstack dev & CTO in Maxedv Beratung GMBH, Hamburg
-- 🌱 I’m exploring how to craft valuable products with LLMs, using modern tech thoughtfully
-- 👀 I’m interested in habits, focus, and practical productivity
-- 📫 You can reach me on Discord: aso1808, Telegram: @FaraSomet
+- 👋 I’m Alexey Klygin (@farawayCC) from Darmstadt, Germany
+- 👨‍💻 Fullstack dev & CTO at Maxedv Beratung GmbH (Hamburg)
+- 🌱 Exploring LLM-powered product development, applying modern tools thoughtfully
+- 👀 Interested in habits, focus, and practical productivity
+- 📫 Discord: aso1808 · Telegram: @FaraSomet
+
 
 <!---
 farawayCC/farawayCC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
